@@ -1,4 +1,4 @@
-# Units: time in UTC, radiation_surface in W/m²
+day_and_time,global_h
 2019/01/01 00:00:00,0
 2019/01/01 01:00:00,0
 2019/01/01 02:00:00,0
